@@ -68,6 +68,9 @@ def send_fcm_notification(message):
                 'token': FCM_TOKEN,
                 'data': {
                     'message': message
+                },
+                'android': {
+                    'priority': 'high'  # This ensures immediate delivery
                 }
             }
         }

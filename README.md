@@ -51,3 +51,5 @@ Phone plays loud alert instantly.
 Built during a conversation with Claude (Anthropic). Chat transcript: [link](https://claude.ai/share/f2122c14-fcb4-42da-a680-6f192bdc0e35)
 
 FCM token and Firebase credentials intentionally excluded from source control.
+
+On your phone make sure to set `Settings → Apps → Informer → Battery → "Unrestricted" (or "Don't optimize")`
